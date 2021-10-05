@@ -90,16 +90,129 @@
                     p.mb-0 #[strong Canal:] medio por el que se envía el mensaje, por ejemplo, el canal es presencial.
               
         
-        .row.justify-content-center.mb-5
+        #base.row.justify-content-center.mb-4.mb-lg-5
           .col-lg-10.mb-5
             p.mb-0 Ahora bien, dentro del proceso de comunicación, además de los factores que participan, existen dos formas universales para su realización, las cuales tienen como principal objetivo facilitar el proceso independiente del contexto, el canal y el código que se utilice.  Ellas son: 
+        
+        .row.justify-content-evenly.mb-0.mb-md-4
+          .col-auto
+            a(href="#1")
+              figure.mb-2.mb-md-5(data-aos="zoom-in") 
+                img(src='@/assets/curso/tema1/img4.svg', style='width:300px;')          
+          .col-auto
+            a(href="#2")
+              figure.mb-2.mb-md-5(data-aos="zoom-in") 
+                img(src='@/assets/curso/tema1/img5.svg', style='width:300px;')  
+        
+    .row.justify-content-center.mb-4
+      .col-lg-8
+        p.mb-0 Las cuales buscan que los mensajes emitidos se reciban, se comprendan y generen una retroalimentación como respuesta a ese mensaje enviado.
+    
+    .row.justify-content-center.mb-4.mb-lg-5
+      .col-sm-2.col-md-10
+        hr
+    
+    .row.justify-content-center.mb-4
+      .col-12.col-md-12
+        #1.row.justify-content-between.mb-4
+          .col.align-self-center
+            ol.lista-ol--cuadro.mb-0
+              li.mb-0
+                .lista-ol--cuadro__vineta(style='')
+                  span #[strong a]
+                h3.mb-0 Comunicación verbal
+          .col-auto.align-self-center
+            a(href="#base")
+              figure
+                img.mx-auto(src='@/assets/curso/tema1/up.svg' alt='Imagen relacionada' style='width:48px')
+        
+        .row.justify-content-center
+          .col-lg-5.mb-4.align-self-center
+            p.mb-4 Es aquella donde el mensaje se transmite utilizando la palabra, sea de forma oral o escrita, como por ejemplo:
+            ul.lista-ul
+              li 
+                i.far.fa-circle(style='font-size: 10px;color: #EF6C00;')
+                P.mb-0 La conversación en una reunión de dos o más personas.
+              li 
+                i.far.fa-circle(style='font-size: 10px;color: #EF6C00;')
+                P.mb-0 La lectura del periódico o de un correo electrónico.
+              li 
+                i.far.fa-circle(style='font-size: 10px;color: #EF6C00;')
+                P.mb-0 Una conversación telefónica o un discurso, etc
+            p
+              b En otras palabras:
+            p.mb-0 Toda interacción que se genere a partir de la utilización de las palabras representadas en una serie de códigos comunes para los interlocutores corresponde a la comunicación verbal.
+          .col-lg-5.mb-4.align-self-center
+            figure
+              img.mx-auto(src='@/assets/curso/tema1/img6.svg' alt='Imagen ambiental' style='')
+    .row
+      .col-lg-12.px-0
+        #carouselExampleIndicators.carousel.slide(data-bs-ride='carousel' style='margin-bottom:80px;')
+          .carousel-indicators
+            button.active(type='button' data-bs-target='#carouselExampleIndicators' data-bs-slide-to='0' aria-current='true' aria-label='Slide 1')
+            button(type='button' data-bs-target='#carouselExampleIndicators' data-bs-slide-to='1' aria-label='Slide 2')
+            
+            
+          .carousel-inner
+            .carousel-item.active(data-bs-interval='90000')
+              .row.align-items-end.justify-content-end.p-5.pe-lg-0.bg-slider1
+                .col-lg-7.me-0.contenedor-transparente
+                  p.text-white.mb-0 Adicionalmente, es importante tener en cuenta que dependiendo del canal que se utilice para este tipo de comunicación se le puede dar un direccionamiento a la misma, como suele suceder cuando una persona lee un periódico o ve a través de la televisión una pauta publicitaria, allí se está generando una comunicación con un direccionamiento de una sola vía, porque el emisor puede recibir el mensaje, decodificarlo e interpretarlo, pero no puede emitir una respuesta, es decir, la comunicación es en un solo sentido.
+              
+            .carousel-item(data-bs-interval='90000')
+              .row.align-items-end.justify-content-end.p-5.pe-lg-0.bg-slider2
+                .col-lg-7.me-0.contenedor-transparente
+                  p.text-white.mb-0 Por otro lado, si la interacción se genera a través de una reunión, una charla cara a cara, una conversación a través de un chat o un teléfono, se podría decir que es una comunicación verbal de doble direccionamiento, porque el emisor lanza el mensaje y el receptor escucha, decodifica, interpreta y responde, lo cual significa que se trata de una comunicación de doble vía en la que el emisor tiene la oportunidad de recibir el feedback o la respuesta del mensaje emitido.
+                  
+          button.carousel-control-prev(type='button' data-bs-target='#carouselExampleIndicators' data-bs-slide='prev')
+            span.carousel-control-prev-icon(aria-hidden='true')
+            span.visually-hidden Previous
+          button.carousel-control-next(type='button' data-bs-target='#carouselExampleIndicators' data-bs-slide='next')
+            span.carousel-control-next-icon(aria-hidden='true')
+            span.visually-hidden Next
+        
+    .row.mb-4
+      .col-auto(style='background-color: #DAD6F7')
+        p.mb-0.p-2
+          b Técnicas de producción vocal
+    
+    p.mb-5 De acuerdo con lo anteriormente expuesto sobre la comunicación verbal es importante precisar que esta es quizás la más común y la más utilizada en las diferentes interacciones humanas, por lo cual requiere prestar una mayor atención a aspectos fundamentales como la producción vocal, de manera que garantice una adecuada comunicación verbal.
 
+    .row.justify-content-center(data-aos="fade-left" style="margin-bottom:60px;")
+      .col-lg-4(style='background-color: #DAD6F7')
+        figure
+          img.mx-auto(src='@/assets/curso/tema1/img7.svg' alt='Imagen ambiental' style='width:410px;')
+      .col-lg-4.p-4.px-lg-5(style='background-color: #FCECDF')
+        .row.align-items-center
+          .col-12
+            .h5.mb-3 Recuerde que:
+            p.mb-0 La técnica de producción vocal es
+              b <i> “el uso adecuado de la voz, implica un aprendizaje y, como tal, debe pasar por diferentes etapas que van desde la concienciación de la técnica fonatoria hasta su empleo de forma inconsciente y automática”</i>
+              b-none (Bustos, 2012).
 
+    .row.justify-content-center.mb-5(style='background-color: #f6f6f6')
+      .col-auto.py-4
+        p.mb-0
+          b Las diferentes técnicas de producción vocal son:
 
+    .row.justify-content-center(style="margin-bottom:60px;")
+      .col-lg-10
+        figure
+          img.mx-auto(src='@/assets/curso/tema1/img8.svg' alt=' técnicas de producción vocal' style='')
 
+    .row.justify-content-center(style="margin-bottom:60px;")
+      .col-8.col-lg-auto
+        .row.justify-content-center
+          .col.col-lg-4.d-flex.triangulo-der(style='background-color: #8A7CBF')
+            .row.align-items-center
+              .col-12
+                p.mb-0
+                  b.text-white Así, y de acuerdo con el contexto del Contact Center BPO, las técnicas de producción vocal se convierten en las diferentes estrategias que se adoptan para desarrollar cualidades en la voz que garantizan para el caso particular del BPO, interacciones exitosas con clientes.
+          .col-sm-auto.p-0.p-md-0.px-lg-0
+            figure
+              img(src='@/assets/curso/tema1/img9.jpg' alt='Imagen ambiental' style='width:410px;')
 
-
-
+    separador
 
 
 
