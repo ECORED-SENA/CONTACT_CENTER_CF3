@@ -9,7 +9,7 @@
     
   
     .row.justify-content-center.fondo-tema1-1
-      .col-lg-12.px-md-5.mt-4.mb-4
+      .col-lg-12.px-4.px-md-5.mt-4.mb-4
         .row.justify-content-center.mb-2
           .col-lg-6.mb-4
             p.mb-4 Cuando se habla de comunicación se hace referencia a una de las necesidades más importantes de todos los seres humanos, ya que por medio de esta se transmiten sentimientos, ideas, información y actitudes a otras personas, generando en ellas reacciones tanto positivas como negativas, las cuales afianzan ese proceso de expresar y recibir mensajes.
@@ -59,7 +59,8 @@
                   .col.align-self-center
                     p.mb-0 #[strong Feedback ]
               
-              .tarjeta.p-3(x="50%" y="35%" style="background-color: #f6f6f6; border-radius:0; color: #12263F;")
+
+              .tarjeta.p-3(x="50%" y="50%" style="background-color: #f6f6f6; border-radius:0; color: #12263F;")
                 .row.justify-content-center
                   .col-auto.align-self-center
                     .round--number
@@ -201,7 +202,7 @@
           img.mx-auto(src='@/assets/curso/tema1/img8.svg' alt=' técnicas de producción vocal' style='')
 
     .row.justify-content-center(style="margin-bottom:60px;")
-      .col-8.col-lg-auto
+      .col-11.col-lg-auto
         .row.justify-content-center
           .col.col-lg-4.d-flex.triangulo-der(style='background-color: #8A7CBF')
             .row.align-items-center
@@ -213,6 +214,295 @@
               img(src='@/assets/curso/tema1/img9.jpg' alt='Imagen ambiental' style='width:410px;')
 
     separador
+    .row.mb-5
+      .col-auto.py-3(style='background-color: #DAD6F7')
+        p.mb-0
+          b Dicción, vocalización, pronunciación, respiración y postura
+
+    p.mb-5 Para tener una excelente comunicación verbal no es suficiente manejar buenas tonalidades de la voz y buenos ritmos de conversación, se requiere mantener una buena dicción y vocalización de las palabras, lo cual implica realizar un esfuerzo adicional al momento de marcar los movimientos de la boca al hablar, lo cual permite mejorar la producción vocal y además ayuda a que la pronunciación de las palabras se realice de manera más clara y nítida, lo que permitirá al interlocutor entender mucho mejor el mensaje que se le transmite.
+
+    .row.justify-content-center.mb-5(data-aos="fade-left")
+      .col-lg-5.p-4
+        figure
+          img(src='@/assets/curso/tema1/img10.svg', style="width: 358px").m-auto
+      .col-lg-5.p-4.triangulo-izq
+        .row.align-items-center
+          .col-12
+            p.mb-3
+              b.text-white  La correcta pronunciación puede depender de varios factores, como por ejemplo:
+            ul.lista-ul
+              li 
+                i.far.fa-circle(style='font-size: 10px; color: #fff;')
+                p.mb-0.text-white Lugar de nacimiento.
+              li 
+                i.far.fa-circle(style='font-size: 10px; color: #fff;')
+                p.mb-0.text-white Condiciones físicas de los órganos de la boca.
+              li 
+                i.far.fa-circle(style='font-size: 10px; color: #fff;')
+                p.mb-0.text-white Factores asociados al nivel cultural y social.
+    
+    p.mb-4 Es importante estar pendiente de cualquier dificultad que se genere al pronunciar una o varias palabras, porque de no hacerlo de manera correcta, puede generar dificultad para comprender los mensajes que se envían o interpretaciones equivocadas de los mismos.
+    p.mb-4 Para mantener una pronunciación correcta de las palabras es importante tener en cuenta los siguientes tips: 
+
+    .row.justify-content-center
+      .col-lg-7.mb-4.align-self-center
+        .tarjeta-numerada.color-acento-contenido.px-5.pt-3.pb-3
+          .tarjeta-numerada__numero
+            .h1 1
+          p Antes de emitir un mensaje se deben conocer las palabras que se van a utilizar en el mismo (vocabulario).
+          
+        .tarjeta-numerada.color-acento-contenido.px-5.pt-3.pb-3
+          .tarjeta-numerada__numero
+            .h1 2
+          p Desarrollar el hábito de la lectura en voz alta, este ejercicio permite realizar un autorreconocimiento de la expresión verbal propia. 
+          
+        .tarjeta-numerada.color-acento-contenido.px-5.pt-3.pb-3
+          .tarjeta-numerada__numero
+            .h1 3
+          p Escuchar y repetir de forma correcta la pronunciación de las palabras que generen dificultad. 
+          
+        .tarjeta-numerada.color-acento-contenido.px-5.pt-3.pb-3
+          .tarjeta-numerada__numero
+            .h1 4
+          p Escuchar canciones y cantarlas, las canciones son una muy buena herramienta, puesto que ayudan a pronunciar las palabras aplicando la correcta entonación.
+        
+        .tarjeta-numerada.color-acento-contenido.px-5.pt-3.pb-3(style="border-bottom:0px;")
+          .tarjeta-numerada__numero
+            .h1 5
+          p Hablar siempre, esto permite además de mejorar la pronunciación, mejorar el vocabulario, el uso de la voz y la seguridad al hablar, la cual se debe proyectar.
+          
+      .col-lg-5.mb-4.align-self-center
+        figure
+          img(src='@/assets/curso/tema1/img11.svg', style="width: 525px").m-auto
+
+    .row.justify-content-center.mb-5
+      .col-lg-10
+        .row.align-items-center.bg-cajon.p-2.p-md-4(data-aos="flip-left")
+          .col-12.col-md-2.mb-3
+            figure
+              img.mx-auto(src='@/assets/curso/tema1/icon1.svg', alt="imagen ambiental" style="position: relative; width: 100px;").m-auto
+          .col-12.col-md-10.mb-3
+            .p-2.p-md-4
+              p.text-white.mb-0 Finalmente, es importante mencionar la respiración y la postura como características inmersas dentro del conjunto de la producción vocal, puesto que estos dos aspectos juegan un papel importante dentro de la comunicación verbal.
+    
+    .row.justify-content-center.mb-5
+      .col-lg-10
+        .row.justify-content-center
+          .col-lg-6.px-lg-0(style="background-color: #f8f7ff;")
+            figure
+              img(src='@/assets/curso/tema1/img_1.gif', style="width: 500px").m-auto
+          .col-lg-6.d-flex.align-items-center.px-lg-0(style="background-color: #8A7CBF;")
+            .p-4.p-md-5
+              p.mb-0
+                b.text-white La respiración en la comunicación oral cumple la función de almacenar en los pulmones el aire que se requiere para poder realizar intervenciones orales de manera tranquila y pausada, evitando que el emisor del mensaje se escuche agitado o ahogado durante la transmisión de este.
+            
+    .row.justify-content-center.mb-4
+      .col-lg-10
+        p.mb-0 Ahora bien, para que esta función se pueda realizar de forma correcta es importante tener en cuenta que se debe realizar una muy buena administración del aire, y esto se consigue a través de ejercicios sencillos donde se inhala, se retiene el aire y posteriormente se expulsa de forma pausada, garantizando poder tener el aire durante toda la intervención oral que se realice.
+    
+    .row.justify-content-center.mb-4
+      .col-lg-8
+        .cajon.color-acento-contenido.p-4.mb-0
+          p.mb-0 Este tipo de ejercicio es recomendable que se realice a diario o de manera frecuente, lo cual le permitirá al emisor controlar cada vez con mayor eficiencia y seguridad la respiración en los procesos de comunicación verbal.
+    
+    .row.justify-content-center.mb-4
+      .col-lg-10
+        p.mb-4 Con respecto a la postura, es claro que de esta depende la voz que se desea proyectar en un proceso de comunicación verbal, por ejemplo, si se está manteniendo una conversación telefónica y el emisor del mensaje se encuentra acostado o recostado, es muy probable que su voz se perciba perezosa, sin fuerza y sin energía.
+        p.mb-4
+          span.etiqueta(style="background-color: #DAD6F7; color: #12263f") Por otro lado, si esa conversación telefónica se mantiene adoptando una postura de sentado con la espalda recta y tomando una posición de poder, muy seguramente el tono de voz reflejará seguridad, confianza, empatía y entusiasmo en el interlocutor,
+          | lo que sumado a las características anteriormente mencionadas dejan como principal resultado procesos de comunicación verbales eficaces, efectivos y productivos.
+    
+    .row.justify-content-center.mb-2
+      .col-lg-10
+        hr
+    
+    .row.justify-content-center.mb-4.fondo-tema1-3
+      .col-12.col-md-12.px-4.px-md-5
+        #2.row.justify-content-between.mb-4
+          .col.align-self-center
+            ol.lista-ol--cuadro.mb-0
+              li.mb-0
+                .lista-ol--cuadro__vineta(style='')
+                  span #[strong b]
+                h3.mb-0 Comunicación no verbal
+          .col-auto.align-self-center
+            a(href="#base")
+              figure
+                img.mx-auto(src='@/assets/curso/tema1/up.svg' alt='Imagen relacionada' style='width:48px')
+        
+        .row.justify-content-center.mb-5
+          .col-lg-6
+            p.mb-4 Hasta el momento se han tratado conceptos relacionados con la comunicación verbal, lo que indica que ha llegado el momento de mencionar la comunicación no verbal, la cual se define como:
+            .cajon.color-acento-contenido.p-4.mb-4
+              p.mb-0 Una forma de comunicación adicional, que no requiere el uso de la palabra y en cambio sus mensajes están expresados a través de las diferentes partes del cuerpo, tales como: gestos, posturas, miradas, etc., que se pueden generar de manera voluntaria o involuntaria y su principal objetivo es la expresión de emociones.
+            p.mb-2 De igual forma, es importante señalar que, así como en la comunicación verbal existen las técnicas de producción vocal, existen factores que intervienen en la comunicación no verbal y por lo general están asociados al comportamiento que el emisor asume al momento de emitir algún mensaje.
+            p.mb-2 Estos factores son:
+          .col-lg-6
+            .row.justify-content-center
+              .col-lg-8
+                figure
+                  img.mx-auto(src='@/assets/curso/tema1/img13.svg' alt='Imagen ambiental' style='width:430px')
+        
+        .row.mb-5.justify-content-center
+          .col-sm-6.col-xl-4.mb-4.mb-xl-0
+            .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
+              .indicador--hover(v-if="indicadorTarjetaFlip")
+              .tarjeta-flip__contenedor
+                .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema1/img14.svg')})`}")
+                .tarjeta-flip__contenido.p-5.p-xl-5.d-flex.align-items-center
+                  p Kinesia corresponde a: expresión facial, a la forma de mirar, a los gestos y la postura del cuerpo.
+          .col-sm-6.col-xl-4.mb-4.mb-xl-0
+            .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
+              .indicador--hover(v-if="indicadorTarjetaFlip")
+              .tarjeta-flip__contenedor
+                .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema1/img15.svg')})`}")
+                .tarjeta-flip__contenido.p-5.p-xl-5
+                  p Proxemia, los cuales se relacionan con la proximidad o el espacio que rodea a las personas al momento de emitir un mensaje.
+          .col-sm-6.col-xl-4.mb-4.mb-xl-0
+            .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
+              .indicador--hover(v-if="indicadorTarjetaFlip")
+              .tarjeta-flip__contenedor
+                .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema1/img16.svg')})`}")
+                .tarjeta-flip__contenido.p-5.p-xl-5
+                  p Los factores de imagen personal: que corresponden a aspectos como la forma de vestir, de caminar y los movimientos que se adoptan al momento de lanzar los mensajes. 
+          
+    .row.justify-content-center.mb-4
+      .col-lg-10
+        .row.align-items-center.bg-cajon.p-2.p-md-4(data-aos="flip-left")
+          .col-12.col-md-2.mb-3
+            figure
+              img.mx-auto(src='@/assets/curso/tema1/icon1.svg', alt="imagen ambiental" style="position: relative; width: 100px;")
+          .col-12.col-md-10.mb-3
+            .p-2.p-md-4
+              p.mb-0
+                b.text-white Es importante tener en cuenta que la comunicación no verbal logra complementar la comunicación verbal, porque cuando se utilizan las dos formas en las acciones comunicativas se logran emitir mensajes mucho más fáciles de entender, más completos, mucho más contextualizados y asertivos. 
+    separador
+
+    .row.justify-content-center.fondo-tema1-1
+      .col-lg-12.px-4.px-md-5.mt-4.mb-4
+        
+        .row.mb-4
+          .col-auto(style='background-color: #DAD6F7;')
+            .p-4
+              p.mb-0
+                b Comunicación escrita 
+          
+        .row.justify-content.center.mb-3
+          .col-lg-6.mb-4
+            p.mb-3 Como concepto de comunicación escrita se puede decir que es una forma de comunicación que permite expresar sentimientos, emociones, conocimientos, opiniones, etc. por medio del papel, desde los tiempos antiguos y en la actualidad a través de los medios digitales, en los que se utiliza como recurso dicho tipo de lenguaje. 
+            p.mb-3 De igual forma, la comunicación escrita se caracteriza por tratarse de una manera de comunicación que no está supeditada a la inmediatez y tampoco a un espacio físico para poderse dar, al contrario, el emisor responsable de emitir el mensaje puede construir un texto que contenga la información que desea transmitir y este puede llegar a un número indeterminado de receptores en diferentes lugares y momentos.
+            .cajon.color-acento-contenido.p-4.mb-3
+              p.mb-0 Otra característica de la comunicación escrita es que perdura en el tiempo, ya que los escritos permanecen y no se olvidan como suele suceder con la comunicación oral, además, esta forma de comunicación logra abarcar un mayor número de receptores, por lo cual, se puede calificar como un sistema de comunicación masivo. 
+            p.mb-0 Adicionalmente, es importante destacar que, aunque se trata de una forma de comunicación, esta no es precisamente de doble vía, ya que la relación que se establece entre el emisor y el receptor es simplemente la de envió del mensaje y recepción del mismo, ya que en la mayoría de los casos el emisor no obtiene del receptor una respuesta inmediata, es más, a veces ni se recibe.
+          .col-lg-6.mb-4(data-aos="fade-left")
+            figure
+              img.mx-auto(src='@/assets/curso/tema1/img17.svg', alt="imagen ambiental" style=";")
+        
+        separador
+    
+    .row.mb-4
+      .col-auto(style='background-color: #DAD6F7;')
+        .p-4.py-3
+          p.mb-0
+              b Redacción, ortografía, etiqueta net, digitación
+    
+    p.mb-4 Para generar contenidos escritos, es decir, redactar, es necesario tener en cuenta aspectos que garanticen la construcción de buenos escritos y que al mismo tiempo resulten de fácil comprensión para los lectores, por eso antes de iniciar la elaboración de un texto se debe pensar en los elementos que se describen a continuación. 
+
+    .row.justify-content-center.fondo-tema1-4
+      .col-lg-12.px-md-5.mt-4.mb-4
+        .row.justify-content-center.mb-4
+          .col-lg-10
+            p.mb-0.text-center
+              b Redacción: Es importante conocer los principios básicos de redacción que le sirven para construir textos claros.
+            
+        .row.justify-content-center.mb-5
+          .col-lg-10
+            .row.justify-content-center
+              .col-lg-3.mb-2
+                figure.mb-4(data-aos="zoom-in")
+                  img.mx-auto(src='@/assets/curso/tema1/img18.svg', alt="imagen ambiental" style="width: 230px;")
+                p.mb-0.text-center
+                  b ¿A quién va dirigido el escrito?
+              .col-lg-3.mb-2
+                figure.mb-4(data-aos="zoom-in")
+                  img.mx-auto(src='@/assets/curso/tema1/img19.svg', alt="imagen ambiental" style="width: 230px;")
+                p.mb-0.text-center
+                  b  ¿Cuál es el objeto del escrito?
+              .col-lg-3.mb-2
+                figure.mb-4(data-aos="zoom-in")
+                  img.mx-auto(src='@/assets/curso/tema1/img20.svg', alt="imagen ambiental" style="width: 230px;")
+                p.mb-0.text-center
+                  b ¿Cuál es el tema del escrito? 
+              .col-lg-3.mb-2
+                figure.mb-4(data-aos="zoom-in")
+                  img.mx-auto(src='@/assets/curso/tema1/img21.svg', alt="imagen ambiental" style="width: 230px;")
+                p.mb-0.text-center
+                  b ¿Cuáles serán las fuentes de información para la construcción del escrito? 
+        
+        .row.justify-content-center.mb-4
+          .col-lg-10
+            p.mb-0 Después de resueltas estas inquietudes se procede con la redacción del texto, realizando lo que se conoce como el texto borrador, sobre el cual después de una revisión se podrán realizar los justes y las correcciones necesarias para dejar como resultado del proceso de redacción el texto final, que podrá ser compartido con los destinatarios del primer interrogante.
+
+    p.mb-5 Es importante tener en cuenta que cada vez que se produce un texto se debe mantener:
+    .row.justify-content-center.mb-4
+      .col-md-4.mb-4.mb-lg-0(data-aos="flip-left")
+        .tarjeta-avatar
+          img(src='@/assets/curso/tema1/icon2.svg' alt='AvatarTop' style='width: 62px;')
+          .tarjeta.color-primario.d-flex.align-items-center(style='background-color: #fff; box-shadow: 0px 0px 15px -6px #000000')
+            .p-4
+              p.text-center.mb-0(style='color: #12263F;') Una estructura mínima que contenga ideas principales y secundarias.
+      .col-md-4.mb-4.mb-lg-0(data-aos="flip-left")
+        .tarjeta-avatar
+          img(src='@/assets/curso/tema1/icon2.svg' alt='AvatarTop' style='width: 62px;')
+          .tarjeta.color-primario.d-flex.align-items-center(style='background-color: #fff; box-shadow: 0px 0px 15px -6px #000000')
+            .p-4
+              p.text-center.mb-0(style='color: #12263F;') El desglose o ampliación del mensaje que se quiere transmitir a través del texto.
+      .col-md-4.mb-4.mb-lg-0(data-aos="flip-left")
+        .tarjeta-avatar
+          img(src='@/assets/curso/tema1/icon2.svg' alt='AvatarTop' style='width: 62px;')
+          .tarjeta.color-primario.d-flex.align-items-start.justify-content-center(style='background-color: #fff; box-shadow: 0px 0px 15px -6px #000000')
+            .p-4.px-5
+              p.text-center.mb-0(style='color: #12263F;') Un cierre o conclusiones.
+    
+    .row.justify-content-center.mb-5
+      .col-lg-10
+        .row.align-items-center.bg-cajon.p-2.p-md-4
+          .col-12.col-md-2.mb-3
+            figure
+              img.mx-auto(src='@/assets/curso/tema1/icon1.svg', alt="imagen ambiental" style="position: relative; width: 100px;").m-auto
+          .col-12.col-md-10.mb-3
+            .p-2.p-md-4
+              p.text-white.mb-0 Este esquema permite que el escrito sea coherente, pertinente y de fácil comprensión para el lector.
+    
+    .row.justify-content-center.mb-5(style="margin-bottom:60px;")
+      .col-11.col-lg-auto
+        .row.justify-content-center
+          .col.col-lg-4.d-flex.triangulo-der2(style='background-color: #FCECDF')
+            .row.align-items-center
+              .col-12
+                p.mb-4
+                  b Ahora bien, es imposible hablar de textos y su construcción sin tener en cuenta la ortografía, la cual es posible definir como:
+                p.mb-0 El conjunto de reglas que regulan un escrito, en términos de la utilización correcta de las letras y los signos de puntuación, que en su estricta aplicabilidad permite unificar los criterios ortográficos para la correcta utilización del idioma.
+          .col-sm-auto.p-0.p-md-0.px-lg-0
+            figure
+              img(src='@/assets/curso/tema1/img22.jpg' alt='Imagen ambiental' style='width:410px;')
+    
+    
+    //prendiente ppor ajustar 
+    .row.justify-content-around
+      .col-auto
+        p.mb-5 A continuación, se resumen las principales reglas ortográficas utilizadas en el idioma español.
+
+    .row.mb-4
+      .col-auto(style='background-color: #DAD6F7;')
+        .p-4.py-3
+          p.mb-0
+              b Los signos de puntuación 
+    
+    p.mb-4 Son herramientas que ayudan a dar una correcta interpretación a los textos, entre los más utilizados se encuentran:
+
+
+
 
 
 
