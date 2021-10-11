@@ -682,7 +682,7 @@
           
           .row.align-items-center.justify-content-center
               
-            .col-auto.mb-lg-4.botone(@click="cambioImg(event, 'uno')")
+            .col-auto.mb-lg-4.botone#defaultOpen2(@click="cambioImg(event, 'uno')")
               .round--number
                 figure
                   img.mx-auto(src='@/assets/curso/tema1/icon-b1.svg', alt="imagen ambiental" style="")
@@ -739,7 +739,7 @@
           
           .row.align-items-center.justify-content-center
               
-            .col-auto.mb-lg-4.botone2(@click="cambioImg2(events, 'pri')")
+            .col-auto.mb-lg-4.botone2#defaultOpen(@click="cambioImg2(events, 'pri')")
               .round--number
                 figure
                   img.mx-auto(src='@/assets/curso/tema1/icon-b1.svg', alt="imagen ambiental" style="")
@@ -875,6 +875,9 @@ export default {
     this.$nextTick(() => {
       this.$aosRefresh()
     })
+    // Get the element with id="defaultOpen" and click on it
+    document.getElementById('defaultOpen2').click()
+    document.getElementById('defaultOpen').click()
   },
   updated() {
     this.$aosRefresh()
@@ -893,7 +896,7 @@ export default {
       }
 
       document.getElementById(imgName).style.display = 'block'
-      event.currentTarget.className += ' active'
+      event.currentTarget.className += 'active'
     },
 
     cambioImg2(events, imgName2) {
