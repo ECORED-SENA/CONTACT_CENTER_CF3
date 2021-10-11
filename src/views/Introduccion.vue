@@ -20,7 +20,7 @@
     .row.justify-content-center.mb-4
       .col-lg-5.align-self-center
         figure.mb-5
-          img.mx-auto(src='@/assets/curso/img-intro1.svg', alt='imagen ambiental', style='width: 455px;')    
+          img.mx-auto(src='@/assets/curso/img-intro1.svg', alt='imagen ambiental', style='width: 455px;') 
       .col-lg-7
         p.mb-4 Es importante tener en cuenta que al reconocer las cualidades comunicativas necesarias para la interacción con clientes se clarificará que 
           span.etiqueta(style='background-color: #DAD6F7; color: #12263F;') la importancia de la comunicación no está centrada solamente en las comunicaciones verbales, sino que ella hace parte de un conjunto de actividades y habilidades que se relacionan entre sí

@@ -17,8 +17,9 @@
 .fondo-tema1-2
   background: url('../assets/curso/tema1/bg-2.svg')
   background-position: center
-  background-size: contain
+  background-size: auto
   background-repeat: no-repeat
+  margin-inline: -3.4rem
 
 .fondo-tema1-3
   background: url('../assets/curso/tema1/bg-3.svg')
@@ -34,7 +35,41 @@
   background-repeat: no-repeat
   margin-inline: -3.4rem
 
+.fondo-tema1-5
+  background: url('../assets/curso/tema1/bg-5.png')
+  background-position: top
+  background-size: auto
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
 
+.fondo-tema1-6
+  background: url('../assets/curso/tema1/bg-6.svg')
+  background-position: left center
+  background-size: contain
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+
+.fondo-tema2-1
+  background: url('../assets/curso/tema2/bg-1.svg')
+  background-position: right top
+  background-size: auto
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+  
+
+.fondo-gradiente
+  background: linear-gradient(180deg,#fff,#DAD7F6)
+  margin-inline: -3.4rem
+.fondo-gradiente2
+  background: linear-gradient(180deg,#F3F2FA,#F3F2FA)
+  margin-inline: -3.4rem
+
+.fondo-t1
+  background-image: url('../assets/curso/tema1/fondo-t1.png')
+  background-position: center
+  background-size: auto
+  background-repeat: no-repeat
+  justify-content: end
 
 .contenedor-transparente
   padding-inline: 3rem
@@ -75,33 +110,33 @@ button:hover, button:focus, [type='button']:hover, [type='button']:focus, [type=
 
 .triangulo-der
   padding: 2rem
-  padding-left: 3rem
+  position: relative
   //background-color: #8a7cbf   
   &::after
     content: ""
-    position: relative
-    right: 1%
+    position: absolute
+    display: block
+    z-index: 2
+    right: 0%
     top: 50%
     bottom: 0%
-    transform: translateX(150%) translateY(-50%)
+    transform: translateX(100%) translateY(-50%)
     width: 0%
     height: 0%
     border-left: 50px solid #8A7CBF
     border-top: 40px solid transparent
     border-bottom: 40px solid transparent
-    z-index: 2
-    display: block
 .triangulo-der2
   padding: 2rem
-  padding-left: 3rem
+  position: relative
   //background-color: #FCECDF   
   &::after
     content: ""
-    position: relative
+    position: absolute
     right: 1%
     top: 50%
     bottom: 0%
-    transform: translateX(150%) translateY(-50%)
+    transform: translateX(100%) translateY(-50%)
     width: 0%
     height: 0%
     border-left: 50px solid #FCECDF
@@ -114,13 +149,41 @@ button:hover, button:focus, [type='button']:hover, [type='button']:focus, [type=
 .triangulo-izq
   background-color: #8A7CBF
   display: flex
+  position: relative
+  padding-top: 2rem
+  padding-bottom: 2rem
+  padding-inline: 4rem
   p
     z-index: 1
   &::before
     content: ""
-    position: relative
-    bottom: -95px
-    left: -60px
+    position: absolute
+    top: 50%
+    bottom: 0%
+    left: 0%
+    transform: translateX(-100%) translateY(-50%)
+    width: 0%
+    height: 0%
+    border-right: 50px solid #8A7CBF
+    border-top: 40px solid transparent
+    border-bottom: 40px solid transparent
+    z-index: 2
+    display: block
+
+.triangulo-izq2
+  background-color: #8A7CBF
+  position: relative
+  padding: 2rem
+  display: flex
+  p
+    z-index: 1
+  &::before
+    content: ""
+    position: absolute
+    top: 50%
+    bottom: 0%
+    left: 0%
+    transform: translateX(-100%) translateY(-50%)
     width: 0%
     height: 0%
     border-right: 50px solid #8A7CBF
@@ -158,8 +221,81 @@ button:hover, button:focus, [type='button']:hover, [type='button']:focus, [type=
   padding-top: 20px !important
   width: 100%
 
+
+.linea-tiempo-b.color-primario .linea-tiempo-b__icon
+  background-color: #ffffff2d
+  border: 2px solid
+  border-color: #27DBF0
+
+.linea-tiempo-b__icon img 
+  width: 95%
+
+.linea-tiempo-b.color-primario .linea-tiempo-b__icon:after
+  background-color: #27DBF0
+
+.linea-tiempo-b.color-secundario .linea-tiempo-b__icon
+  background-color: #ffffff2d
+  border: 2px solid
+  border-color: #27DBF0
+
+.linea-tiempo-b.color-secundario .linea-tiempo-b__icon:after
+  background-color: #27DBF0
+
+
+.img-infografica.color-primario .img-infografica__item__dot:before, .img-infografica.color-primario .img-infografica__item__dot:after, .img-infografica.color-primario .img-infografica-b__item__dot:before, .img-infografica.color-primario .img-infografica-b__item__dot:after, .img-infografica-b.color-primario .img-infografica__item__dot:before, .img-infografica-b.color-primario .img-infografica__item__dot:after, .img-infografica-b.color-primario .img-infografica-b__item__dot:before, .img-infografica-b.color-primario .img-infografica-b__item__dot:after
+    background-color: #3e2ea673
+
+.tarjeta--azul
+    background-color: #fff
+    background-image: url(../assets/curso/tema2/bg-slyde.svg)
+    background-repeat: no-repeat
+    background-size: cover
+
+.slyder-a__bullets 
+  bottom: -10px
+    
+.bloque-texto-b.color-primario:before 
+  background-color: #3e2ea609
+
+.bloque-texto-b:before 
+    top: 30%
+    bottom: 20px
+    left: 25%
+
+//imagens
+.custom-img1
+  width: 230px
+
+
+/////teclados
+.round--number
+  width: 50px
+  height: 50px
+  background-color: #57DBD8
+  //border: 3px solid #57DBD8
+  border: none
+  border-radius: 999px
+  color: #ffff
+  cursor: pointer
+  p 
+    font-size: 25px
+    font-weight: 800
+    text-align: center
+    padding-top: 5px
+
+.round--number:hover
+  opacity: 0.6
+  //background-color: #ffffff2c
+.botones.active
+  background-color: #ccc
+.bloque
+  display: none
+.bloque2
+  display: none
+
+
 @media screen and ( max-width: 576px) 
-  .fondo-intro
+  .fondo-intro, .fondo-t1
     justify-content: center
     background-size: cover
     .contenedor-transparente
@@ -171,7 +307,9 @@ button:hover, button:focus, [type='button']:hover, [type='button']:focus, [type=
   
 
 @media screen and ( max-width: 992px)
-  .fondo-tema1-1, .fondo-tema1-3
+  .custom-img1
+    width: 150px
+  .fondo-tema1-1, .fondo-tema1-3, .fondo-tema1-5, .fondo-tema1-6, .fondo-tema2-1
     margin-inline: -1.4rem
   .fondo-tema1-2, .fondo-tema1-4
     margin-inline: -1.4rem
@@ -213,20 +351,41 @@ button:hover, button:focus, [type='button']:hover, [type='button']:focus, [type=
   
   .triangulo-izq
     background-color: #8A7CBF
-    flex-direction: row
-    
+    position: relative
+    padding-top: 2rem
+    padding-bottom: 2rem
+    padding-inline: 2rem
     p
       z-index: 1
     &::before
       content: ""
       position: relative
-      top: -90px
+      top: 0%
       left: 40%
       width: 0%
       height: 0%
-      border-left: 40px solid transparent
-      border-bottom: 30px solid #8A7CBF
-      border-right: 40px solid transparent
+      border-left: 0px solid transparent
+      border-bottom: 0px solid #8A7CBF
+      border-right: 0px solid transparent
       z-index: 2
+  .triangulo-izq2 
+    padding: 2rem
+    display: block
+    //padding-right: 2rem
+    &::before
+      padding: 0
+      right: 0%
+      top: 0%
+      bottom: 0%
+      transform: translateX(0%) translateY(0%)
+      width: 0%
+      height: 0%
+      border-left: 0px solid #8A7CBF
+      border-top: 0px solid transparent
+      border-bottom: 0px solid transparent
   
+  .fondo-gradiente, .fondo-gradiente2
+    margin-inline: -1.4em
   
+  .slyder-a__btn--sigt, .slyder-a__btn--atrs
+    top: 100%
