@@ -6,9 +6,9 @@
     .titulo-principal
       .titulo-principal__numero
         span 2
-      h1 Canales de comunicación en Contact Center BPO
+      h1 Canales de comunicación en <i>Contact Center</i> BPO
     
-    p.mb-4 Desde sus inicios y hasta hoy la función principal de las empresas de Call y Contact Center BPO ha sido generar y mantener interacciones exitosas con los clientes, condición que ha obligado a que esta industria se encuentre en transición permanentemente, tratando de encontrar medios y formas innovadoras para mantener el contacto con los clientes.
+    p.mb-4 Desde sus inicios y hasta hoy la función principal de las empresas de <i>Call</i> y <i>Contact Center</i> BPO ha sido generar y mantener interacciones exitosas con los clientes, condición que ha obligado a que esta industria se encuentre en transición permanentemente, tratando de encontrar medios y formas innovadoras para mantener el contacto con los clientes.
 
     .row.justify-content-center(style="margin-bottom:60px;")
       .col-11.col-lg-auto
@@ -18,7 +18,7 @@
             .row.align-items-center
               .col-12
                 p.mb-0
-                  b.text-white En sus inicios los Call Center se centraban en la interacción con los clientes solamente a través del teléfono, lo cual le permitió abarcar un mayor número de clientes gracias a la inmediatez de este como principal y casi único canal de comunicación hasta ese momento.
+                  b.text-white En sus inicios los <i>Call Center</i> se centraban en la interacción con los clientes solamente a través del teléfono, lo cual le permitió abarcar un mayor número de clientes gracias a la inmediatez de este como principal y casi único canal de comunicación hasta ese momento.
           
           .col-lg-4.p-0.p-md-0.px-lg-0
             figure
@@ -28,13 +28,13 @@
             .row.align-items-center.justify-content-center
               .col-12
                 p.mb-3.mb-sm-0
-                  b.text-white  Posteriormente y con el auge de la Internet las empresas de Call Center logran dar un salto gigante hacia lo que hoy conocemos como multicanalidad, pasando de ser Call Center a Contact Center, pero ¿por qué antes Call Center y ahora Contact Center?
+                  b.text-white  Posteriormente y con el auge de la Internet las empresas de <i>Call Center</i> logran dar un salto gigante hacia lo que hoy conocemos como multicanalidad, pasando de ser <i>Call Center</i> a <i>Contact Center</i>, pero ¿por qué antes <i>Call Center</i> y ahora <i>Contact Center</i>?
 
     .tarjeta.tarjeta--azul.p-4.mb-5
       SlyderA
         .row.align-items-start.justify-content-center.my-3
           .col-lg-5.mb-4.mb-lg-0.align-self-center
-            p.mb-0 La razón es sencilla, a partir de la implementación masiva de servicios de Internet empiezan a aparecer diferentes medios y formas de comunicación entre las personas, como por ejemplo, los correos electrónicos y la mensajería instantánea, lo que le permitió a la industria ampliar mucho más su espectro de atención a clientes, y es en ese momento cuando se empieza a ver la industria como Contact Center y ya no solamente como Call Center.
+            p.mb-0 La razón es sencilla, a partir de la implementación masiva de servicios de Internet empiezan a aparecer diferentes medios y formas de comunicación entre las personas, como por ejemplo, los correos electrónicos y la mensajería instantánea, lo que le permitió a la industria ampliar mucho más su espectro de atención a clientes, y es en ese momento cuando se empieza a ver la industria como <i>Contact Center</i> y ya no solamente como <i>Call Center</i>.
           .col-lg-5.align-self-center
             figure
               img(src='@/assets/curso/tema2/img2.png', style="width: 450px").m-auto
@@ -102,7 +102,7 @@
             i.fas.fa-quote-right(style="font-size: 25px")
           .bloque-texto-d__autor 
             p.mb-0 Elder y Paul, 2002
-        p.mb-0 Como se ha visto la industria del Contact Center BPO tiene como función misional generar permanentemente interacciones con los clientes, las cuales deben cumplir con parámetros de efectividad, claridad, concretud y eficiencia que permitan generar en los usuarios niveles óptimos de satisfacción.
+        p.mb-0 Como se ha visto la industria del <i>Contact Center</i> BPO tiene como función misional generar permanentemente interacciones con los clientes, las cuales deben cumplir con parámetros de efectividad, claridad, concretud y eficiencia que permitan generar en los usuarios niveles óptimos de satisfacción.
 
     p.mb-4 Cumplir con lo anteriormente mencionado no es una tarea fácil, además de requerir muy buenas habilidades comunicativas para entregar información o dar respuesta a las necesidades de los clientes, también requiere desarrollar muy buenas competencias para obtener información de los mismos, por lo cual una de las estrategias más utilizadas tiene que ver con las técnicas de sondeo y formulación de preguntas, las cuales desde su conceptualización resultan ser una interrogación que se realiza con el ánimo de obtener alguna información mediante las respuestas que a partir de allí se generan.
     p.mb-5 En gestiones con clientes se utilizan diferentes tipos de preguntas, el criterio de aplicación de una u otra depende de factores relacionados con el contexto, el tipo de información que se quiere obtener e incluso el tipo de cliente con el que se interactúa.  Algunos de los tipos de preguntas más utilizados son:
@@ -170,12 +170,12 @@
               img.mx-auto(src='@/assets/curso/tema1/icon1.svg', alt="imagen ambiental" style="position: relative; width: 100px;")
           .col-12.col-md-10.mb-2
             .p-2.p-md-4
-              p.text-white.mb-0 Recuerde: el uso de técnicas de sondeo por parte del operador de un Contact Center  es indispensable, debido a que mediante estas se puede conocer las necesidades del cliente, con el fin de ofrecerle un servicio más personalizado.
+              p.text-white.mb-0 Recuerde: el uso de técnicas de sondeo por parte del operador de un <i>Contact Center</i>  es indispensable, debido a que mediante estas se puede conocer las necesidades del cliente, con el fin de ofrecerle un servicio más personalizado.
     
 
     separador
     #t_2_3.titulo-segundo
-      .h2 2.3 Normas de calidad propias de Contact Center BPO
+      .h2 2.3 Normas de calidad propias de <i>Contact Center</i> BPO
 
 
     .row.justify-content-center(style="margin-bottom:60px;")
@@ -188,7 +188,7 @@
                 p.mb-0
                   b.text-white Los centros de contacto se han convertido en los mejores aliados para las empresas, generando puentes de comunicación entre ellas y sus consumidores, lo cual obliga a la industria de BPO a estar generando constantemente estrategias enfocadas a mejorar las condiciones de interacción con los clientes, lo que redunda en la mejora constante de sus procesos de calidad enfocados a los usuarios finales.
           
-          .col-lg-4.p-0.p-md-0.px-lg-0
+          .col-lg-4.p-0.p-md-0.px-lg-0(style='background-color: #8A7CBF')
             figure
               img.mx-auto(src='@/assets/curso/tema2/img10.png' alt='Imagen ambiental' style='')
           
@@ -196,14 +196,14 @@
             .row.align-items-center.justify-content-center
               .col-12
                 p.mb-0
-                  b.text-white Teniendo en cuenta lo anterior, y dado el crecimiento y posicionamiento de los Contact Center en el mercado en los últimos años se hace necesario empezar a pensar en la forma de poder estandarizar los procesos que al interior de dicho sector se generan y poder contar con normas que regulen y garanticen el óptimo cumplimiento de los mismos, en otras palabras, la industria del BPO requiere implementar procesos de calidad.
+                  b.text-white Teniendo en cuenta lo anterior, y dado el crecimiento y posicionamiento de los <i>Contact Center</i> en el mercado en los últimos años se hace necesario empezar a pensar en la forma de poder estandarizar los procesos que al interior de dicho sector se generan y poder contar con normas que regulen y garanticen el óptimo cumplimiento de los mismos, en otras palabras, la industria del BPO requiere implementar procesos de calidad.
 
     .row.justify-content-center.mb-4
       .col-lg-10
         PasosA.color-acento-botones.mb-5(tipo="n")
           .row
             .col-md-12.mb-4.mb-md-0
-              p En  el año 2009 aparece la primera norma de calidad para Call y Contact Center denominada Sistema de gestión de calidad del centro de llamadas ISO 15838, publicada por el Comité Europeo de Normas, la cual tenía como principal finalidad definir las condiciones técnicas necesarias para que los Call y Contact Center mejoraran la calidad del relacionamiento con los clientes, a partir de principios de  implementación de  infraestructuras adecuadas, sistemas de medición, evaluación y monitoreo de las percepciones de los clientes.
+              p En  el año 2009 aparece la primera norma de calidad para Call y <i>Contact Center</i> denominada Sistema de gestión de calidad del centro de llamadas ISO 15838, publicada por el Comité Europeo de Normas, la cual tenía como principal finalidad definir las condiciones técnicas necesarias para que los Call y <i>Contact Center</i> mejoraran la calidad del relacionamiento con los clientes, a partir de principios de  implementación de  infraestructuras adecuadas, sistemas de medición, evaluación y monitoreo de las percepciones de los clientes.
             
           .row
             .col-md-12.mb-4.mb-md-0
@@ -217,8 +217,8 @@
       .col-lg-12.px-4.px-md-5.mt-4.mb-2
         .row.justify-content-center
           .col-lg-5.align-self-center.mb-4
-            p.mb-4 En cuanto a las normas de calidad internacionales para la industria de Contact Center y BPO, se destaca la norma COPC (Customer Operation Performance Center), la cual funciona como un sistema integrado de métodos que permiten conocer el desempeño de la organización, mediante actividades enfocadas en la estrategia, el control de gestión y la inteligencia de negocios, tiene como principios mejorar la satisfacción de los clientes y reducir costos al proveer excelentes servicios.
-            p.mb-0 Sin embargo y a pesar de que la norma COPC es quizás la norma de calidad diseñada exclusivamente para empresas de Contact Center BPO, en la actualidad su proceso de certificación es uno de los más costosos y en Colombia solamente tres empresas cuentan con dicha certificación.
+            p.mb-4 En cuanto a las normas de calidad internacionales para la industria de <i>Contact Center</i> y BPO, se destaca la norma COPC (Customer Operation Performance Center), la cual funciona como un sistema integrado de métodos que permiten conocer el desempeño de la organización, mediante actividades enfocadas en la estrategia, el control de gestión y la inteligencia de negocios, tiene como principios mejorar la satisfacción de los clientes y reducir costos al proveer excelentes servicios.
+            p.mb-0 Sin embargo y a pesar de que la norma COPC es quizás la norma de calidad diseñada exclusivamente para empresas de <i>Contact Center</i> BPO, en la actualidad su proceso de certificación es uno de los más costosos y en Colombia solamente tres empresas cuentan con dicha certificación.
           .col-lg-5.align-self-center.mb-4
             figure
               img.mx-auto(src='@/assets/curso/tema2/img11.svg', alt="imagen ambiental" style="position: relative; width: 430px;")

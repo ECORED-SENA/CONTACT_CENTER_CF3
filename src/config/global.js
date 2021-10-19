@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'La comunicación en BPO ',
     descripcionCurso:
-      'A través de este componente formativo el aprendiz debe apropiar los elementos y conceptos necesarios, relacionados con la comunicación en Contact Center BPO, todos sus procesos y características, que le permitan afianzar habilidades y destrezas que garanticen interacciones exitosas con clientes a través de los diferentes canales propios de este sector.',
+      'A través de este componente formativo el aprendiz debe apropiar los elementos y conceptos necesarios, relacionados con la comunicación en <i>Contact Center</i> BPO, todos sus procesos y características, que le permitan afianzar habilidades y destrezas que garanticen interacciones exitosas con clientes a través de los diferentes canales propios de este sector.',
     imagenBannerPrincipal: require('@/assets/curso/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner.png'),
   },
@@ -23,7 +23,7 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'La comunicación en Contact Center BPO',
+        titulo: 'La comunicación en <i>Contact Center</i> BPO',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -38,7 +38,7 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Canales de comunicación en Contact Center BPO',
+        titulo: 'Canales de comunicación en <i>Contact Center</i> BPO',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -56,19 +56,19 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '2.3',
-            titulo: 'Normas de calidad propias del Contact Center BPO',
+            titulo: 'Normas de calidad propias del <i>Contact Center</i> BPO',
             hash: 't_2_3',
           },
         ],
       },
     ],
     subMenu: [
-      {
+      /*{
         nombreRuta: 'actividad',
         icono: 'far fa-question-circle',
         titulo: 'Actividad didáctica',
         desarrolloContenidos: true,
-      },
+      },*/
       {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
@@ -263,18 +263,19 @@ export default {
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
+      {
+        nombre: 'Magdi Khalifah Gamboa',
+        cargo: 'Validación de diseño y contenido',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
       /*{
         nombre: 'Nombre',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
-      {
-        nombre: 'Nombre',
-        cargo: 'Validación de diseño y contenido',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },*/
+      */
     ],
     gestoresRepositorio: [
       {

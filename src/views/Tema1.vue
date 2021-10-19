@@ -5,7 +5,7 @@
     .titulo-principal
       .titulo-principal__numero
         span 1
-      h1 La comunicación en Contact Center BPO
+      h1 La comunicación en <i>Contact Center</i> BPO
     
   
     .row.justify-content-center.fondo-tema1-1
@@ -13,9 +13,9 @@
         .row.justify-content-center.mb-2
           .col-lg-6.mb-4
             p.mb-4 Cuando se habla de comunicación se hace referencia a una de las necesidades más importantes de todos los seres humanos, ya que por medio de esta se transmiten sentimientos, ideas, información y actitudes a otras personas, generando en ellas reacciones tanto positivas como negativas, las cuales afianzan ese proceso de expresar y recibir mensajes.
-            p.mb-4 Durante toda la historia de la humanidad la comunicación ha estado presente, de hecho, no existe ningún momento o espacio de la vida del ser humano donde no se estén generando procesos de comunicación, puesto que,se trata de una actividad que se aplica en cualquier contexto, espacio y momento.
+            p.mb-4 Durante toda la historia de la humanidad la comunicación ha estado presente, de hecho, no existe ningún momento o espacio de la vida del ser humano donde no se estén generando procesos de comunicación, puesto que, se trata de una actividad que se aplica en cualquier contexto, espacio y momento.
             .cajon.color-acento-contenido.p-4.mb-0
-              p.mb-0 Dentro del ámbito empresarial y en especial con la aparición de los Contact Center BPO, la comunicación ha tomado una mayor relevancia, debido a que este es uno de los contextos donde se hace vital la buena comunicación, sobre todo cuando de interactuar con clientes se trata.
+              p.mb-0 Dentro del ámbito empresarial y en especial con la aparición de los <i>Contact Center</i> BPO, la comunicación ha tomado una mayor relevancia, debido a que este es uno de los contextos donde se hace vital la buena comunicación, sobre todo cuando de interactuar con clientes se trata.
           .col-10.col-lg-6.mb-4(data-aos="fade-left")
             figure
               img.mx-auto(src='@/assets/curso/tema1/img1.svg', alt='imagen ambiental', style='width: 395px;')    
@@ -26,7 +26,7 @@
               img.mx-auto(src='@/assets/curso/tema1/img2.svg', alt='imagen ambiental', style='width: auto;')    
           .col-lg-6.mb-4.align-self-center
             p.mb-4 Es claro y como se mencionaba anteriormente, la comunicación no solo se presenta en el ámbito personal, el ámbito laboral también es uno de los contextos generadores de comunicación, ahora bien, si la comunicación se da dentro del marco de generar relaciones con clientes, es allí donde cobra gran relevancia, ya que a través del tiempo se ha podido demostrar que toda buena comunicación con clientes logra mejores experiencias, al igual que incrementa la productividad de toda compañía.
-            p.mb-4 Es así como las áreas de Contact Center BPO no son la excepción,  ya que esta industria tiene como  factor principal para funcionar y ser productiva la comunicación con sus clientes, de esta depende que las compañías se mantengan en el mercado y dentro de la industria, sus estrategias de comunicación resultan ser claves a la hora de satisfacer las necesidades de los clientes, pues, para nadie es un secreto que mientras se logre generar comunicaciones empáticas, claras y concretas con los clientes, mayor será su intención de permanecer con la empresa y mayor será su grado de satisfacción con la misma. 
+            p.mb-4 Es así como las áreas de <i>Contact Center</i> BPO no son la excepción,  ya que esta industria tiene como  factor principal para funcionar y ser productiva la comunicación con sus clientes, de esta depende que las compañías se mantengan en el mercado y dentro de la industria, sus estrategias de comunicación resultan ser claves a la hora de satisfacer las necesidades de los clientes, pues, para nadie es un secreto que mientras se logre generar comunicaciones empáticas, claras y concretas con los clientes, mayor será su intención de permanecer con la empresa y mayor será su grado de satisfacción con la misma. 
 
     
     #t_1_1.titulo-segundo
@@ -48,13 +48,13 @@
                   .col.align-self-center
                     p.mb-0 #[strong Receptor:] es quien recibe el mensaje.
               
-              .tarjeta.p-3(x="38%" y="15%" style="background-color: #f6f6f6; border-radius:0; color: #12263F;")
+              .tarjeta.p-3(x="37%" y="15%" style="background-color: #f6f6f6; border-radius:0; color: #12263F;")
                 .row.justify-content-center
                   .col.align-self-center
                     p.text-center.mb-0 #[strong Feedback ]
               
 
-              .tarjeta.p-3(x="50%" y="50%" style="background-color: #f6f6f6; border-radius:0; color: #12263F;")
+              .tarjeta.p-3(x="54%" y="57%" style="background-color: #f6f6f6; border-radius:0; color: #12263F;")
                 .row.justify-content-center
                   .col.align-self-center
                     p.mb-0 #[strong Mensaje: ]  corresponde a la información que se quiere transmitir. 
@@ -124,7 +124,7 @@
                 P.mb-0 La lectura del periódico o de un correo electrónico.
               li 
                 i.far.fa-circle(style='font-size: 10px;color: #EF6C00;')
-                P.mb-0 Una conversación telefónica o un discurso, etc
+                P.mb-0 Una conversación telefónica o un discurso, etc.
             p
               b En otras palabras:
             p.mb-0 Toda interacción que se genere a partir de la utilización de las palabras representadas en una serie de códigos comunes para los interlocutores corresponde a la comunicación verbal.
@@ -193,7 +193,7 @@
             .row.align-items-center
               .col-12
                 p.mb-0
-                  b.text-white Así, y de acuerdo con el contexto del Contact Center BPO, las técnicas de producción vocal se convierten en las diferentes estrategias que se adoptan para desarrollar cualidades en la voz que garantizan para el caso particular del BPO, interacciones exitosas con clientes.
+                  b.text-white Así, y de acuerdo con el contexto del <i>Contact Center</i> BPO, las técnicas de producción vocal se convierten en las diferentes estrategias que se adoptan para desarrollar cualidades en la voz que garantizan para el caso particular del BPO, interacciones exitosas con clientes.
           .col-sm-auto.p-0.p-md-0.px-lg-0
             figure
               img(src='@/assets/curso/tema1/img9.jpg' alt='Imagen ambiental' style='width:410px;')
@@ -227,7 +227,7 @@
                 p.mb-0.text-white Factores asociados al nivel cultural y social.
     
     p.mb-4 Es importante estar pendiente de cualquier dificultad que se genere al pronunciar una o varias palabras, porque de no hacerlo de manera correcta, puede generar dificultad para comprender los mensajes que se envían o interpretaciones equivocadas de los mismos.
-    p.mb-4 Para mantener una pronunciación correcta de las palabras es importante tener en cuenta los siguientes tips: 
+    p.mb-4 Para mantener una pronunciación correcta de las palabras es importante tener en cuenta los siguientes <i>tips</i>: 
 
     .row.justify-content-center
       .col-lg-7.mb-4.align-self-center
@@ -378,7 +378,7 @@
             p.mb-3 De igual forma, la comunicación escrita se caracteriza por tratarse de una manera de comunicación que no está supeditada a la inmediatez y tampoco a un espacio físico para poderse dar, al contrario, el emisor responsable de emitir el mensaje puede construir un texto que contenga la información que desea transmitir y este puede llegar a un número indeterminado de receptores en diferentes lugares y momentos.
             .cajon.color-acento-contenido.p-4.mb-3
               p.mb-0 Otra característica de la comunicación escrita es que perdura en el tiempo, ya que los escritos permanecen y no se olvidan como suele suceder con la comunicación oral, además, esta forma de comunicación logra abarcar un mayor número de receptores, por lo cual, se puede calificar como un sistema de comunicación masivo. 
-            p.mb-0 Adicionalmente, es importante destacar que, aunque se trata de una forma de comunicación, esta no es precisamente de doble vía, ya que la relación que se establece entre el emisor y el receptor es simplemente la de envió del mensaje y recepción del mismo, ya que en la mayoría de los casos el emisor no obtiene del receptor una respuesta inmediata, es más, a veces ni se recibe.
+            p.mb-0 Adicionalmente, es importante destacar que, aunque se trata de una forma de comunicación, esta no es precisamente de doble vía, ya que la relación que se establece entre el emisor y el receptor es simplemente la de envío del mensaje y recepción del mismo, ya que en la mayoría de los casos el emisor no obtiene del receptor una respuesta inmediata, es más, a veces ni se recibe.
           .col-lg-6.mb-4(data-aos="fade-left")
             figure
               img.mx-auto(src='@/assets/curso/tema1/img17.svg', alt="imagen ambiental" style=";")
@@ -426,7 +426,7 @@
         
         .row.justify-content-center.mb-4
           .col-lg-10
-            p.mb-0 Después de resueltas estas inquietudes se procede con la redacción del texto, realizando lo que se conoce como el texto borrador, sobre el cual después de una revisión se podrán realizar los justes y las correcciones necesarias para dejar como resultado del proceso de redacción el texto final, que podrá ser compartido con los destinatarios del primer interrogante.
+            p.mb-0 Después de resueltas estas inquietudes se procede con la redacción del texto, realizando lo que se conoce como el texto borrador, sobre el cual después de una revisión se podrán realizar los ajustes y las correcciones necesarias para dejar como resultado del proceso de redacción el texto final, que podrá ser compartido con los destinatarios del primer interrogante.
 
     p.mb-5 Es importante tener en cuenta que cada vez que se produce un texto se debe mantener:
     .row.justify-content-center.mb-5
@@ -673,7 +673,7 @@
             figure
               img.mx-auto(src='@/assets/curso/tema1/img33.svg', alt="imagen ambiental" style="position: relative; width: 450px;")
     
-    p.mb-5 En primera instancia se debe realizar el reconocimiento de la herramienta que se va a utilizar para digitar, que en este caso en particular será el teclado de la computadora, el cual se encuentra divido en cuatros zonas:
+    p.mb-5 En primera instancia se debe realizar el reconocimiento de la herramienta que se va a utilizar para digitar, que en este caso en particular será el teclado de la computadora, el cual se encuentra divido en cuatro zonas:
     
       //https://github.com/ECORED-SENA/OPERACIONES_COMERCIALES_RETAIL_CF1/blob/master/src/components/Botones.vue
     
@@ -788,7 +788,7 @@
     
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        <iframe width="699" height="393" src="https://www.youtube.com/embed/GfLaM6n4nF8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       
     p.mb-4 Al momento de realizar la actividad de digitación se debe mantener una postura correcta, de manera que posteriormente no se genere cansancio en algunas partes del cuerpo. Se sugiere adoptar la siguiente postura:
     
@@ -860,7 +860,7 @@ export default {
       {
         //titulo: '04 de marzo',
         texto:
-          '<strong>Puntos Diacrítico: </strong> el cual se utiliza para diferenciar palabras que se escriben igual, pero con significados diferentes.',
+          '<strong>Diacrítico: </strong> el cual se utiliza para diferenciar palabras que se escriben igual, pero con significados diferentes.',
         icono: require('@/assets/curso/tema1/img29.svg'),
       },
       {
@@ -884,7 +884,7 @@ export default {
   },
   methods: {
     cambioImg(event, imgName) {
-      console.log('hola wey')
+      //console.log('hola wey')
       let i, bloque, botones
       bloque = document.getElementsByClassName('bloque')
       for (i = 0; i < bloque.length; i++) {
@@ -900,7 +900,7 @@ export default {
     },
 
     cambioImg2(events, imgName2) {
-      console.log('hola wey2')
+      //console.log('hola wey2')
       let i, bloque2, botones2
       bloque2 = document.getElementsByClassName('bloque2')
       for (i = 0; i < bloque2.length; i++) {
