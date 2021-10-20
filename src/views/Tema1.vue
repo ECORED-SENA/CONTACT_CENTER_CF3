@@ -677,7 +677,7 @@
     
       //https://github.com/ECORED-SENA/OPERACIONES_COMERCIALES_RETAIL_CF1/blob/master/src/components/Botones.vue
     
-      .row.mb-0(style='background-color:#DAD6F7 ')
+      .row.mb-5(style='background-color:#DAD6F7 ')
         .col-lg-1.py-4.align-self-center
           
           .row.align-items-center.justify-content-center
@@ -707,26 +707,44 @@
           .row
             .col-auto.bloque#uno
               figure
-                img.mx-auto(src='@/assets/curso/tema1/teclado-01.png', alt="imagen ambiental" style="")
+                img.mx-auto(src='@/assets/curso/tema1/teclado-01.png', alt="imagen ambiental" style="width: 1105px;")
+              .row.justify-content-around.mb-0
+                .col-lg-12
+                  .info-teclado
+                    p.mb-1 #[strong Partes del teclado ]
+                    p.mb-1 Nota. Tomado de (EDUTEKA, 2005).
+                    figcaption.mb-0.ps-0(style='background-color:#F6F6F6 ') http://eduteka.icesi.edu.co/articulos/Teclado1 
             .col-auto.bloque#dos
               figure
                 img.mx-auto(src='@/assets/curso/tema1/teclados-02.png', alt="imagen ambiental" style="")
+              .row.justify-content-around.mb-0
+                .col-lg-12
+                  .info-teclado
+                    p.mb-0 La zona de función resaltada contiene los números básicos, estas teclas corresponden a atajos en el uso del sistema informático.
+                    
             .col-auto.bloque#tres
               figure
                 img.mx-auto(src='@/assets/curso/tema1/teclados-03.png', alt="imagen ambiental" style="")
+              .row.justify-content-around.mb-0
+                .col-lg-12
+                  .info-teclado
+                    p.mb-0 La zona alfanumérica resaltada corresponde a la zona de letras, números y signos de puntuación.  
             .col-auto.bloque#cuatro
               figure
                 img.mx-auto(src='@/assets/curso/tema1/teclados-04.png', alt="imagen ambiental" style="")
+              .row.justify-content-around.mb-0
+                .col-lg-12
+                  .info-teclado
+                    p.mb-0 La zona de navegación resaltada permite navegar por los diferentes programas contenidos en la computadora.
             .col-auto.bloque#cinco
               figure
                 img.mx-auto(src='@/assets/curso/tema1/teclados-05.png', alt="imagen ambiental" style="")
+              .row.justify-content-around.mb-0
+                .col-lg-12
+                  .info-teclado
+                    p.mb-0 La zona numérica resaltada corresponde a los números y los símbolos de las operaciones matemáticas básicas como se aprecia en la siguiente imagen.
         
-      .row.justify-content-around.mb-5(style='background-color:#F6F6F6 ')
-        .col-lg-10.py-4
-          p.mb-1 #[strong Partes del teclado ]
-          p.mb-1 Nota. Tomado de (EDUTEKA, 2005).
-          p.mb-1 http://eduteka.icesi.edu.co/articulos/Teclado2 
-
+      
 
 
     p.mb-4 El manejo adecuado del teclado es una de las partes más importantes para el éxito en la construcción rápida y  correcta de documentos escritos en la era de la tecnología, por lo que se sugiere conocerlo y aprender a usarlo eficientemente.
@@ -734,7 +752,7 @@
     p.mb-4 Estas zonas son:
 
       ////////////
-      .row.mb-0(style='background-color:#DAD6F7 ')
+      .row.mb-5(style='background-color:#DAD6F7 ')
         .col-lg-1.py-4.align-self-center
           
           .row.align-items-center.justify-content-center
@@ -765,24 +783,45 @@
             .col-auto.bloque2#pri
               figure
                 img.mx-auto(src='@/assets/curso/tema1/teclados-06.png', alt="imagen ambiental" style="")
+              .row.justify-content-around.mb-0
+                .col-lg-12
+                  .info-teclado
+                    p.mb-1 #[strong Partes del teclado ]
+                    p.mb-1 Nota. Tomado de (EDUTEKA, 2005).
+                    figcaption.mb-0.ps-0(style='background-color:#F6F6F6 ') http://eduteka.icesi.edu.co/articulos/Teclado2
+                    
             .col-auto.bloque2#seg
               figure
                 img.mx-auto(src='@/assets/curso/tema1/teclados-07.png', alt="imagen ambiental" style="")
+              .row.justify-content-around.mb-0
+                .col-lg-12
+                  .info-teclado
+                    p.mb-0 Fila superior
+                    
             .col-auto.bloque2#ter
               figure
                 img.mx-auto(src='@/assets/curso/tema1/teclados-08.png', alt="imagen ambiental" style="")
+              .row.justify-content-around.mb-0
+                .col-lg-12
+                  .info-teclado
+                    p.mb-0 Fila dominante
+                    
             .col-auto.bloque2#cuar
               figure
                 img.mx-auto(src='@/assets/curso/tema1/teclados-09.png', alt="imagen ambiental" style="")
+              .row.justify-content-around.mb-0
+                .col-lg-12
+                  .info-teclado
+                    p.mb-0 Fila guía
+                    
             .col-auto.bloque2#quin
               figure
                 img.mx-auto(src='@/assets/curso/tema1/teclados-10.png', alt="imagen ambiental" style="")
-        
-      .row.justify-content-around.mb-5(style='background-color:#F6F6F6 ')
-        .col-lg-10.py-4
-          p.mb-1 #[strong Partes del teclado ]
-          p.mb-1 Nota. Tomado de (EDUTEKA, 2005).
-          p.mb-1 http://eduteka.icesi.edu.co/articulos/Teclado2 
+              .row.justify-content-around.mb-0
+                .col-lg-12
+                  .info-teclado
+                    p.mb-0 Fila inferior
+                    
 
     p.mb-5 Con respecto a la ubicación de los dedos se debe tener en cuenta que deben estar colocados sobre la fila guía, de la forma que se presenta a continuación.
     
@@ -885,11 +924,15 @@ export default {
   methods: {
     cambioImg(event, imgName) {
       //console.log('hola wey')
-      let i, bloque, botones
+      let i, bloque, botones, teclado
       bloque = document.getElementsByClassName('bloque')
       for (i = 0; i < bloque.length; i++) {
         bloque[i].style.display = 'none'
       }
+      /*teclado = document.getElementsByClassName('texto-teclado')
+      for (i = 0; i < bloque.length; i++) {
+        teclado[i].style.display = 'none'
+      }*/
       botones = document.getElementsByClassName('botones')
       for (i = 0; i < botones.length; i++) {
         botones[i].className = bloque[i].className.replace('active', '')

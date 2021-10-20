@@ -41,17 +41,25 @@
         
         .row.align-items-start.justify-content-center.my-3
           .col-lg-5.mb-4.mb-lg-0.align-self-center
-            p.mb-0.mt-2 Entonces, es a partir de ese momento que la industria pasa de ser monocanal (teléfono), a ser multicanal (teléfono, redes sociales, chat, MSM, email), utilizando más de un canal de atención para sus clientes, garantizando mayor acceso a la información por parte de sus clientes, inmediatez, facilidad y flexibilidad en cuanto acceso a la información, mayor cobertura cuando se requiere atención 24/7, mayor acercamiento con los clientes y lo más importante aumentando los niveles de satisfacción de los mismos.
+            p.mb-0.mt-2 En 1995 se genera otro boom en el mundo con la llegada de las redes sociales, las cuales en sus inicios tenían solamente un enfoque social, pero con el tiempo las industrias como la de BPO empezaron a ver las redes sociales como una oportunidad para mejorar las interacciones con sus clientes, poder llegar a ellos de una forma más masiva a como lo hacían a través del teléfono y sobre todo llegar por diferentes medios, como respuesta a las exigencias de atención que demandan las nuevas generaciones de clientes.
           .col-lg-5.align-self-center
             figure
               img(src='@/assets/curso/tema2/img3.png', style="width: 450px").m-auto
         
         .row.align-items-start.justify-content-center.my-3
           .col-lg-5.mb-4.mb-lg-0.align-self-center
+            p.mb-0.mt-2 Entonces, es a partir de ese momento que la industria pasa de ser monocanal (teléfono), a ser multicanal (teléfono, redes sociales, chat, MSM, email), utilizando más de un canal de atención para sus clientes, garantizando mayor acceso a la información por parte de sus clientes, inmediatez, facilidad y flexibilidad en cuanto acceso a la información, mayor cobertura cuando se requiere atención 24/7, mayor acercamiento con los clientes y lo más importante aumentando los niveles de satisfacción de los mismos.
+          .col-lg-5.align-self-center
+            figure
+              img(src='@/assets/curso/tema2/img4-1.png', style="width: 450px").m-auto
+              
+        .row.align-items-start.justify-content-center.my-3
+          .col-lg-5.mb-4.mb-lg-0.align-self-center
             p.mb-0.mt-2 En la actualidad y con la evolución tecnológica que vive el mundo la industria del BPO sigue cambiando en cuanto a la forma de interactuar con sus clientes, ya que ha pasado de utilizar la multicanalidad para anclarse en la omnicanalidad, la cual le permite a la industria seguir manejando los diferentes canales de comunicación, como son: el chat, el e-mail, las redes sociales, el teléfono y la presencialidad, ya no de manera separada, sino integrada, tratando de adaptarse para dar mayor respuesta a las  necesidades de los clientes modernos y mejorando su servicio. 
           .col-lg-5.align-self-center
             figure
               img(src='@/assets/curso/tema2/img4.png', style="width: 450px").m-auto
+
 
     #t_2_1.titulo-segundo
       .h2 2.1 Barreras de la comunicación
