@@ -711,9 +711,11 @@
               .row.justify-content-around.mb-0
                 .col-lg-12
                   .info-teclado
-                    p.mb-1 #[strong Partes del teclado ]
-                    p.mb-1 Nota. Tomado de (EDUTEKA, 2005).
-                    figcaption.mb-0.ps-0(style='background-color:#F6F6F6 ') http://eduteka.icesi.edu.co/articulos/Teclado1 
+                    .row
+                      .col-auto
+                        p.mb-1 #[strong Partes del teclado ]
+                        p.mb-1 Nota. Tomado de (EDUTEKA, 2005).
+                        figcaption.mb-0.ps-0(style='background-color:#F6F6F6 ') http://eduteka.icesi.edu.co/articulos/Teclado1 
             .col-auto.bloque#dos
               figure
                 img.mx-auto(src='@/assets/curso/tema1/teclados-02.png', alt="imagen ambiental" style="")
@@ -786,9 +788,11 @@
               .row.justify-content-around.mb-0
                 .col-lg-12
                   .info-teclado
-                    p.mb-1 #[strong Partes del teclado ]
-                    p.mb-1 Nota. Tomado de (EDUTEKA, 2005).
-                    figcaption.mb-0.ps-0(style='background-color:#F6F6F6 ') http://eduteka.icesi.edu.co/articulos/Teclado2
+                    .row
+                      .col-auto
+                        p.mb-1 #[strong Partes del teclado ]
+                        p.mb-1 Nota. Tomado de (EDUTEKA, 2005).
+                        figcaption.mb-0.ps-0(style='background-color:#F6F6F6 ') http://eduteka.icesi.edu.co/articulos/Teclado2
                     
             .col-auto.bloque2#seg
               figure
