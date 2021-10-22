@@ -776,9 +776,13 @@
               .round--number
                 p.text-white 3
               
-            .col-auto.mb-lg-2.botone2(@click="cambioImg2(events, 'quin')")
+            .col-auto.mb-lg-4.botone2(@click="cambioImg2(events, 'quin')")
               .round--number
                 p.text-white 4
+            
+            .col-auto.mb-lg-2.botone2(@click="cambioImg2(events, 'sext')")
+              .round--number
+                p.text-white 5
           
         .col-auto.col-md.px-0
           .row
@@ -825,6 +829,14 @@
                 .col-lg-12
                   .info-teclado
                     p.mb-0 Fila inferior
+                    
+            .col-auto.bloque2#sext
+              figure
+                img.mx-auto(src='@/assets/curso/tema1/teclados-11.png', alt="imagen ambiental" style="")
+              .row.justify-content-around.mb-0
+                .col-lg-12
+                  .info-teclado
+                    p.mb-0 Fila de controles y diversos usos
                     
 
     p.mb-5 Con respecto a la ubicación de los dedos se debe tener en cuenta que deben estar colocados sobre la fila guía, de la forma que se presenta a continuación.

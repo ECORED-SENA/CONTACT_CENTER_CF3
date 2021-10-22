@@ -211,7 +211,7 @@
         PasosA.color-acento-botones.mb-5(tipo="n")
           .row
             .col-md-12.mb-4.mb-md-0
-              p En  el año 2009 aparece la primera norma de calidad para Call y <i>Contact Center</i> denominada Sistema de gestión de calidad del centro de llamadas ISO 15838, publicada por el Comité Europeo de Normas, la cual tenía como principal finalidad definir las condiciones técnicas necesarias para que los Call y <i>Contact Center</i> mejoraran la calidad del relacionamiento con los clientes, a partir de principios de  implementación de  infraestructuras adecuadas, sistemas de medición, evaluación y monitoreo de las percepciones de los clientes.
+              p En  el año 2009 aparece la primera norma de calidad para <i>Call</i> y <i>Contact Center</i> denominada Sistema de gestión de calidad del centro de llamadas ISO 15838, publicada por el Comité Europeo de Normas, la cual tenía como principal finalidad definir las condiciones técnicas necesarias para que los <i>Call</i> y <i>Contact Center</i> mejoraran la calidad del relacionamiento con los clientes, a partir de principios de  implementación de  infraestructuras adecuadas, sistemas de medición, evaluación y monitoreo de las percepciones de los clientes.
             
           .row
             .col-md-12.mb-4.mb-md-0

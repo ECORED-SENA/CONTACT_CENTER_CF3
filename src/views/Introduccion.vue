@@ -10,7 +10,7 @@
       h1 Introducción
   
     
-    p.mb-5 La comunicación es quizás una de las actividades más importantes y necesarias durante la vida del ser humano y el ejercicio habitual de la misma, permite la adquisición de nuevos conocimientos, relacionamientos sociales permanentes, expresión de sentimientos e ideas, al igual que emociones y <u>todo estos</u>, a su vez pasan a ser la base de toda relación exitosa; es por esta razón que se hace necesario abordar esta misma comunicación vista desde el ámbito laboral y en especial en los entornos del <i>Contact Center</i> BPO.
+    p.mb-5 La comunicación es quizás una de las actividades más importantes y necesarias durante la vida del ser humano y el ejercicio habitual de la misma, permite la adquisición de nuevos conocimientos, relacionamientos sociales permanentes, expresión de sentimientos e ideas, al igual que emociones y todos estos, a su vez pasan a ser la base de toda relación exitosa; es por esta razón que se hace necesario abordar esta misma comunicación vista desde el ámbito laboral y en especial en los entornos del <i>Contact Center</i> BPO.
 
     .row.fondo-intro.mb-5
       .col-lg-6.py-lg-5.my-5.px-lg-0
