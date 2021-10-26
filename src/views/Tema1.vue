@@ -499,7 +499,7 @@
           p.mb-0
               b Los acentos
     
-    p.mb-4 Corresponde a la mayor fuerza con que se pronuncia una sílaba en una de palabra. 
+    p.mb-4 Corresponde a la mayor fuerza con que se pronuncia una sílaba en una palabra. 
 
     .row.justify-content-center.fondo-gradiente.mb-5
       .col-lg-12.px-4.px-md-5.mt-4.mb-2
@@ -564,7 +564,7 @@
       .tarjeta.p-3(x="25.5%" y="78.5%" style="background-color: #f6f6f6; border-radius:0; color: #12263F;")
         .row.justify-content-center
           .col-auto.align-self-center
-            p.mb-2 Reconozca en que parte del ciberespacio se encuentra. 
+            p.mb-2 Reconozca en qué parte del ciberespacio se encuentra. 
             h5 Aplicación
             p.mb-0 Es fundamental para determinar las pautas del comportamiento y reconocer las normas del mismo. 
       //4
